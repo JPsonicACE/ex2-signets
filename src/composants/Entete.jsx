@@ -1,5 +1,5 @@
 import avatar from '../images/avatar.png';
-
+import './Entete.scss';
 export default function Entete() {
   return (
     <header className="Entete">
