@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/github.io/ex2-signets/static/css/main.ababf7c1.chunk.css",
-    "main.js": "/github.io/ex2-signets/static/js/main.eaedca72.chunk.js",
-    "main.js.map": "/github.io/ex2-signets/static/js/main.eaedca72.chunk.js.map",
-    "runtime-main.js": "/github.io/ex2-signets/static/js/runtime-main.6c8059e2.js",
-    "runtime-main.js.map": "/github.io/ex2-signets/static/js/runtime-main.6c8059e2.js.map",
-    "static/js/2.d19a03ce.chunk.js": "/github.io/ex2-signets/static/js/2.d19a03ce.chunk.js",
-    "static/js/2.d19a03ce.chunk.js.map": "/github.io/ex2-signets/static/js/2.d19a03ce.chunk.js.map",
-    "index.html": "/github.io/ex2-signets/index.html",
-    "static/css/main.ababf7c1.chunk.css.map": "/github.io/ex2-signets/static/css/main.ababf7c1.chunk.css.map",
-    "static/js/2.d19a03ce.chunk.js.LICENSE.txt": "/github.io/ex2-signets/static/js/2.d19a03ce.chunk.js.LICENSE.txt"
+    "main.css": "/ex2-signets/static/css/main.ababf7c1.chunk.css",
+    "main.js": "/ex2-signets/static/js/main.eaedca72.chunk.js",
+    "main.js.map": "/ex2-signets/static/js/main.eaedca72.chunk.js.map",
+    "runtime-main.js": "/ex2-signets/static/js/runtime-main.1ca72e9f.js",
+    "runtime-main.js.map": "/ex2-signets/static/js/runtime-main.1ca72e9f.js.map",
+    "static/js/2.d19a03ce.chunk.js": "/ex2-signets/static/js/2.d19a03ce.chunk.js",
+    "static/js/2.d19a03ce.chunk.js.map": "/ex2-signets/static/js/2.d19a03ce.chunk.js.map",
+    "index.html": "/ex2-signets/index.html",
+    "static/css/main.ababf7c1.chunk.css.map": "/ex2-signets/static/css/main.ababf7c1.chunk.css.map",
+    "static/js/2.d19a03ce.chunk.js.LICENSE.txt": "/ex2-signets/static/js/2.d19a03ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c8059e2.js",
+    "static/js/runtime-main.1ca72e9f.js",
     "static/js/2.d19a03ce.chunk.js",
     "static/css/main.ababf7c1.chunk.css",
     "static/js/main.eaedca72.chunk.js"
