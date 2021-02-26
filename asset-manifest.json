@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/JPsonicACE/ex2-signets.git/static/css/main.ababf7c1.chunk.css",
+    "main.js": "/JPsonicACE/ex2-signets.git/static/js/main.cba97557.chunk.js",
+    "main.js.map": "/JPsonicACE/ex2-signets.git/static/js/main.cba97557.chunk.js.map",
+    "runtime-main.js": "/JPsonicACE/ex2-signets.git/static/js/runtime-main.acb95ef4.js",
+    "runtime-main.js.map": "/JPsonicACE/ex2-signets.git/static/js/runtime-main.acb95ef4.js.map",
+    "static/js/2.27f60b14.chunk.js": "/JPsonicACE/ex2-signets.git/static/js/2.27f60b14.chunk.js",
+    "static/js/2.27f60b14.chunk.js.map": "/JPsonicACE/ex2-signets.git/static/js/2.27f60b14.chunk.js.map",
+    "index.html": "/JPsonicACE/ex2-signets.git/index.html",
+    "static/css/main.ababf7c1.chunk.css.map": "/JPsonicACE/ex2-signets.git/static/css/main.ababf7c1.chunk.css.map",
+    "static/js/2.27f60b14.chunk.js.LICENSE.txt": "/JPsonicACE/ex2-signets.git/static/js/2.27f60b14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acb95ef4.js",
+    "static/js/2.27f60b14.chunk.js",
+    "static/css/main.ababf7c1.chunk.css",
+    "static/js/main.cba97557.chunk.js"
+  ]
+}
