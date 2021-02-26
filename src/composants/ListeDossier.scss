@@ -5,27 +5,11 @@
     display: flex;
     justify-content: center;
     flex-wrap:wrap;
-    
-    
+  
     li{
        display: flex;
-       margin: 10px;
-       
-
-      
-       
+       margin: 10px;   
     }
-    li:nth-child(1){
-        background-color: black;
-    }
-    li:nth-child(2){
-        background-color:rgb(7, 209, 0) ;
-    }
-    li:nth-child(3){
-        background-color:rgb(0, 223, 252);
-    }
-    li:nth-child(4){
-        background-color: rgb(218, 1, 1);
-    }
+    
     
 }

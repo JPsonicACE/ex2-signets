@@ -8,9 +8,14 @@
 
     }
     button{
-        width: 30%;
-        margin-left:200px;
+        width: 10px;
+        margin-left:250px;
         margin-bottom: 10px;
+        color: white;
+        background-color: transparent;
+        border: none;
+        outline:none;
+        cursor: pointer;
        
     }
 
@@ -24,14 +29,16 @@
         z-index: 10;
         margin-top: 15px;
         margin-left: 15px;
-        color: red;
-        background-color: black;
-        width: 60px;
+        color: rgba(252, 252, 253, 0.589);
+        background-color: rgba(121, 121, 121, 0.705);
+        width:40px;
+        border-radius: 100px;
+        text-align: center;
         
 
     }
     img{
-        margin-top: -32px;
+        margin-top: -54px;
     }
    
 
